@@ -1,0 +1,17 @@
+numpy
+pandas
+bz2
+re
+os
+gc
+matplotlib
+seaborn
+nltk
+os
+shutil
+tarfile
+zipfile
+random
+math
+prettytable
+collections
